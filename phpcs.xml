@@ -1,0 +1,3 @@
+<ruleset name="PSR12 Standard">
+    <rule ref="PSR12"/>
+</ruleset>
